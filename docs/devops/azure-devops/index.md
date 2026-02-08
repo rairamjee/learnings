@@ -138,3 +138,34 @@ An Azure DevOps Organization is the top-level container in Azure DevOps.
 4. Click Create
 
 **🎉 Your project is ready!**
+
+
+## What is an Azure DevOps Project?
+
+An Azure DevOps Project is where actual development work happens.
+
+A project contains:
+
+- Repositories (code)
+- Pipelines (CI/CD)
+- Boards (work items)
+- Test plans
+- Artifacts
+
+Each project is isolated, making it easy to manage multiple applications within the same organization.
+
+
+## Typical Azure DevOps Hierarchy
+
+Azure DevOps Organization
+│
+├── Project A
+│   ├── Repos
+│   ├── Pipelines
+│   ├── Boards
+│   └── Artifacts
+│
+├── Project B
+│   ├── Repos
+│   ├── Pipelines
+│   └── Boards

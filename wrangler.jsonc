@@ -1,7 +1,0 @@
-{
-  "name": "learnings-docs",
-  "compatibility_date": "2026-02-08",
-  "assets": {
-    "directory": "./docs/.vitepress/dist"
-  }
-}
