@@ -157,15 +157,4 @@ Each project is isolated, making it easy to manage multiple applications within 
 
 ## Typical Azure DevOps Hierarchy
 
-Azure DevOps Organization
-│
-├── Project A
-│   ├── Repos
-│   ├── Pipelines
-│   ├── Boards
-│   └── Artifacts
-│
-├── Project B
-│   ├── Repos
-│   ├── Pipelines
-│   └── Boards
+![alt text](devops-hirearchy.png)
