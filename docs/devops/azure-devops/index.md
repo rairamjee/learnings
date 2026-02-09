@@ -10,6 +10,8 @@ CI/CD automation, version control, testing, and monitoring, making it
 suitable for startups, enterprises, and distributed teams alike.
 
 
+![alt text](devops-org.png)
+
 ## What is Azure DevOps?
 
 Azure DevOps is a suite of integrated services that enables developers,

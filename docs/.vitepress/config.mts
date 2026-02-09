@@ -24,6 +24,7 @@ export default defineConfig({
                             text: 'Azure DevOps',
                             items: [
                                 { text: 'Overview', link: '/devops/azure-devops/' },
+                                { text: 'Boards', link: '/devops/azure-devops/boards' },
                                 { text: 'Repositories', link: '/devops/azure-devops/repositories' },
                                 { text: 'Pipelines', link: '/devops/azure-devops/pipelines' }
                             ]
